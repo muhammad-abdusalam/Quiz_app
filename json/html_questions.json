@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Why We Use <br> Element ?",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Bold",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Make Text Bold",
+    "right_answer": "To Add Breakline"
+  },
+  {
+    "title": "Why We Use <hr> Element ?",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Bold",
+    "answer_3": "To Make Text Bold",
+    "answer_4": "To Add Horizontally Line",
+    "right_answer": "To Add Horizontally Line"
+  },
+  {
+    "title": "Why We Use <H1> Element ?",
+    "answer_1": "To Add Main Heading",
+    "answer_2": "To Make Text Bold",
+    "answer_3": "To Make Text Bold",
+    "answer_4": "To Make Text Bold",
+    "right_answer": "To Add Main Heading"
+  },
+  {
+    "title": "Why We Use <img> Element ?",
+    "answer_1": "To Add Image",
+    "answer_2": "To Make Text Bold",
+    "answer_3": "To Make Text Bold",
+    "answer_4": "To Make Text Bold",
+    "right_answer": "To Add Image"
+  },
+  {
+    "title": "Why We Use <video> Element ?",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Bold",
+    "answer_3": "To Add Video",
+    "answer_4": "To Make Text Bold",
+    "right_answer": "To Add Video"
+  }
+]
